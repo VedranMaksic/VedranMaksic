@@ -6,17 +6,19 @@
 
 ## 🚀 Projects
 
-### 🔬 [AI Research Lab Management (AIReLM)](https://github.com/VedranMaksic/airelm)
+### 🔬 [AI Research Lab Management (AIReLM)](https://github.com/mflegar/fnm.java)
 Full-stack app for managing AI research projects (Spring Boot + React).  
-Includes task management, role-based access, notifications, and integration with arXiv/PubMed.
+Includes task management, role-based access, notifications, and integration with arXiv/PubMed.  
+🧑‍💻 Developed as part of a team. I contributed to backend development and technical documentation.
 
-### 📊 [SAP Project – Student Success Analysis](https://github.com/VedranMaksic/sap-analiza)
+### 📊 [SAP Project – Student Success Analysis](https://github.com/VedranMaksic/sap-project)
 Statistical data analysis using R (logistic regression, t-tests, ROC analysis).  
-Exploring socio-demographic impact on student performance.
+Exploring socio-demographic impact on student performance.  
+🧑‍💻 Created as a team project within the university course *Statistical Data Analysis*.
 
 ### 🎮 Python Dice Game (High school project)
 Simple desktop game (Tkinter GUI) with random actions, items, and a virtual shop.  
-I worked on design and game flow logic.
+🧑‍💻 Developed in a high school team – I worked on design and game flow logic.
 
 ## 🧠 Tech Stack
 
