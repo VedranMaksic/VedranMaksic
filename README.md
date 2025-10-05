@@ -1,10 +1,15 @@
 # 👋 Hi, I'm Vedran Maksić
 
 🎓 Computer Science student (3rd year) at FER, University of Zagreb  
-🔍 Interests: data analysis, machine learning, full-stack development  
+🔍 Interests: backend development, full-stack development, data analysis, machine learning  
 🌱 Currently learning: Java backend (Spring Boot), applied statistics in R
 
 ## 🚀 Projects
+
+### [Insurance User Analysis Web App – North Star Edu Camo (True North) – 2025](https://github.com/rknezevic/Chatalyst)
+Developed during the North Star Edu Camp at True North.  
+Enables users to ask insurance-related questions in natural language and receive AI-powered answers.  
+**Role:** Backend development, NLP model integration.
 
 ### 🔬 [AI Research Lab Management (AIReLM)](https://github.com/mflegar/fnm.java)
 Full-stack app for managing AI research projects (Spring Boot + React).  
