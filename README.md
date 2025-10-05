@@ -6,7 +6,7 @@
 
 ## 🚀 Projects
 
-### [Insurance User Analysis Web App – North Star Edu Camo (True North) – 2025](https://github.com/rknezevic/Chatalyst)
+### 🤖 [Insurance User Analysis Web App – North Star Edu Camo (True North) – 2025](https://github.com/rknezevic/Chatalyst)
 Developed during the North Star Edu Camp at True North.  
 Enables users to ask insurance-related questions in natural language and receive AI-powered answers.  
 **Role:** Backend development, NLP model integration.
