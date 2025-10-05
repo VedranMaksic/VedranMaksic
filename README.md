@@ -6,10 +6,10 @@
 
 ## 🚀 Projects
 
-### 🤖 [Insurance User Analysis Web App – North Star Edu Camo (True North) – 2025](https://github.com/rknezevic/Chatalyst)
+### 🤖 [Insurance User Analysis Web App – North Star Edu Camp (True North) – 2025](https://github.com/rknezevic/Chatalyst)
 Developed during the North Star Edu Camp at True North.  
 Enables users to ask insurance-related questions in natural language and receive AI-powered answers.  
-**Role:** Backend development, NLP model integration.
+**Role:** Backend development, external AI model integration.
 
 ### 🔬 [AI Research Lab Management (AIReLM)](https://github.com/mflegar/fnm.java)
 Full-stack app for managing AI research projects (Spring Boot + React).  
