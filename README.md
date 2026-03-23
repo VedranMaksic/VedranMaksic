@@ -6,6 +6,10 @@
 
 ## 🚀 Projects
 
+### 📊 [Testing Temporal Dependence in Financial Time Series – Final Thesis (FER) – 2026](https://github.com/VedranMaksic/Testing-Temporal-Dependence-in-Financial-Time-Series.git)
+Developed as part of my final thesis at FER.  
+Focuses on analyzing temporal dependence in financial time series and building machine learning models for predicting price movement direction and future returns. 
+
 ### 🤖 [Insurance User Analysis Web App – North Star Edu Camp (True North) – 2025](https://github.com/rknezevic/Chatalyst)
 Developed during the North Star Edu Camp at True North.  
 Enables users to ask insurance-related questions in natural language and receive AI-powered answers.  
