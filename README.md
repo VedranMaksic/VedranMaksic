@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vedran Maksić
 
-🎓 Computer Science student (3rd year) at FER, University of Zagreb  
+🎓 BSc in Computer Science at FER, University of Zagreb  
 🔍 Interests: backend development, full-stack development, data analysis, machine learning  
 🌱 Currently learning: Java backend (Spring Boot), applied statistics in R
 
