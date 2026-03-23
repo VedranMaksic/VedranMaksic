@@ -32,7 +32,7 @@ Simple desktop game (Tkinter GUI) with random actions, items, and a virtual shop
 ## 🧠 Tech Stack
 
 - Languages: Python, Java, R, C/C++, SQL
-- Tools & Frameworks: Spring Boot, React, RStudio, PostgreSQL, Git
+- Tools & Frameworks: Pandas, NumPy, Scikit-learn, Spring Boot, React, RStudio, PostgreSQL, Git
 - Systems: Windows, Linux 
 
 ## 🌍 Languages
